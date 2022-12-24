@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vibhaw1904/to-do-list.git/static/css/main.00814bfe.css",
+    "main.js": "/vibhaw1904/to-do-list.git/static/js/main.07ef0dfd.js",
+    "index.html": "/vibhaw1904/to-do-list.git/index.html",
+    "main.00814bfe.css.map": "/vibhaw1904/to-do-list.git/static/css/main.00814bfe.css.map",
+    "main.07ef0dfd.js.map": "/vibhaw1904/to-do-list.git/static/js/main.07ef0dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00814bfe.css",
+    "static/js/main.07ef0dfd.js"
+  ]
+}
